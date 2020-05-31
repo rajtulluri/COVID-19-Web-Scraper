@@ -6,6 +6,7 @@ import pandas as pd
 import numpy as np
 import datetime
 
+
 countries = [
     'us','brazil','russia','spain',
     'italy','france','germany',
