@@ -14,5 +14,5 @@ And overall statistics for all countries such as :-
   * Total recoveries
   * Total deaths
   
-The repo also contains code to write these data files into a postgreSQL database running on localhost.
+The repository also contains code to write these data files into a postgreSQL database running on localhost.
 The files - country_stats.py and overall_stats.py make csv datasets scraping all data since Feb 15 to date. The file daily_updation.py daily updates these datasets made above with the current date statistics.
