@@ -1,5 +1,5 @@
 # COVID-19-Web-Scraper
-A Web scraper written in python that collects overall and country wise covid-19 statistics from worldometers and Wikipedia.
+A Web scraper written in python that collects overall and country wise covid-19 statistics from https://www.worldometers.info/coronavirus/ and Wikipedia.
 The scraper collects country wise statistics from 15th Feb to current date, such as :-
 
  * Total cases
